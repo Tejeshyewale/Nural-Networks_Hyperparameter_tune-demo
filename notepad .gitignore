@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+
+# Hyperparameter tuning logs
+my_dir/
+untitled_project/
+
+# Dataset (optional)
+*.csv
